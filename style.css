@@ -31,7 +31,7 @@ color: var(--cor-fontes);
 display: flex;
 align-items: center;
 padding: 24px 0;
-margin-left: 35%;
+padding-left: 35%;
 }
 .escola-div-conteudo{
     width: 35%;
