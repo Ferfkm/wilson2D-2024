@@ -29,4 +29,6 @@ width: 10%;
 background-image: linear-gradient(#393981, #4EBFE9);
 color: var(--cor-fontes);
 display: flex;
+align-items: center;
+padding: 24px 0;
 }
